@@ -5,14 +5,19 @@ theme = "ananke"
 
 MetaDataFormat = "yaml"
 DefaultContentLanguage = "en"
-SectionPagesMenu = "main, about"
-Paginate = 5 # this is set low for demonstrating with dummy content. Set to a higher number
+SectionPagesMenu = "main"
+contentDir = "content"
+Paginate = 8 # this is set low for demonstrating with dummy content. Set to a higher number
 enableRobotsTXT = true
 
 [sitemap]
   changefreq = "monthly"
   priority = 0.5
   filename = "sitemap.xml"
+
+[content]
+    about = "/about"
+    donate = "/donate"
 
 [params]
   favicon = "/images/favicon.ico"
@@ -21,4 +26,3 @@ enableRobotsTXT = true
   background_color_class = "bg-black-30"
   featured_image = "/images/elodie_hero_crop.jpg"
   recent_posts_number = 2
-  mainSections = ["About", "Donate"]

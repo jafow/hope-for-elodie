@@ -2,8 +2,6 @@
 title: About
 description: What she's facing
 ---
-# About Elodie
-
 ### What She's facing
 Elodie is a brilliant, beloved little girl who suffers from a rare mutation
 along the [PIK3CA gene](https://ghr.nlm.nih.gov/gene/PIK3CA), resulting in
@@ -12,11 +10,12 @@ known as *intestinal lymphangiectasia*.
 
 Intestinal lymphangiectasia is a disorder where the lymphatic vessels supplying the
 lining of the small intestine are dilated and malformed. This leads to a lot of serious health complications like:
-* malabsorption of nutrients;
-* a severely compromised immune system;
-* chronic diarrhea;
-* protein loss & vitamin deficiencies;
-* painful swelling of the face, abdomen and limbs. 
+
+*   malabsorption of nutrients;
+*   a severely compromised immune system;
+*   chronic diarrhea;
+*   protein loss & vitamin deficiencies;
+*   painful swelling of the face, abdomen and limbs. 
 
 ![Elodie swelling](/images/elodie-swelling.jpg)
 
