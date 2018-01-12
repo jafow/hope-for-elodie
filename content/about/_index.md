@@ -1,6 +1,5 @@
 ---
 title: About
-description: What she's facing
 ---
 ### What She's facing
 Elodie is a brilliant, beloved little girl who suffers from a rare mutation
