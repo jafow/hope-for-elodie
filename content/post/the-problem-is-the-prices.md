@@ -1,7 +1,7 @@
 ---
 title: "The Problem Is the Prices"
 date: 2018-01-11T21:57:44-08:00
-draft: true
+draft: false
 ---
 
 # Medical Bills Are Too High

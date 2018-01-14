@@ -1,8 +1,9 @@
 ---
 title: Learn More
+description: Helpful resources on PLE
 ---
 
-# Learn More
+## Learn More
 There is a growing community around PLE. Here are some links to 
 other information that has helped us:
 
