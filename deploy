@@ -3,6 +3,6 @@ USER=$USER
 HOST=$HOST
 DIR=hope-for-elodie/
 
-hugo && rsync --delete -avz --delete public ${HOST}:~/${DIR}
+hugo && rsync -avz --delete public ${HOST}:~/${DIR}
 
 exit 0

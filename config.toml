@@ -1,5 +1,5 @@
 title = "Hope For Elodie"
-baseURL = "https://www.hopeforelodie.com"
+baseURL = "http://www.hopeforelodie.com"
 languageCode = "en-us"
 theme = "ananke"
 
@@ -7,7 +7,7 @@ MetaDataFormat = "yaml"
 DefaultContentLanguage = "en"
 SectionPagesMenu = "main"
 contentDir = "content"
-Paginate = 8 # this is set low for demonstrating with dummy content. Set to a higher number
+Paginate = 8
 enableRobotsTXT = true
 
 [sitemap]
