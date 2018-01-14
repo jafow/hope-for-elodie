@@ -15,10 +15,6 @@ enableRobotsTXT = true
   priority = 0.5
   filename = "sitemap.xml"
 
-[content]
-    about = "/about"
-    donate = "/donate"
-
 [params]
   favicon = "/images/favicon.ico"
   description = "A little girl"
