@@ -1,7 +1,9 @@
 title = "Hope For Elodie"
-baseURL = "http://www.hopeforelodie.com"
+baseURL = "/"
 languageCode = "en-us"
 theme = "ananke"
+relativeURLs = true
+canonifyURLs = true
 
 MetaDataFormat = "yaml"
 DefaultContentLanguage = "en"
