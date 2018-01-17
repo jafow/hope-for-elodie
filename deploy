@@ -1,8 +1,8 @@
 #!/bin/sh
 USER=$USER
 HOST=$HOST
-DIR=hope-for-elodie/
+DIR=hopeforelodie.com/
 
-hugo && rsync -avz --delete public ${HOST}:~/${DIR}
+hugo && rsync -avz --delete public ${HOST}:/var/www/${DIR}
 
 exit 0
